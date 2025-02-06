@@ -11,13 +11,12 @@
 Algunas de las tecnologías en las que me destaco debido a la amplia práctica en el bootcamp de SoyHenry y por mis estudios en la universidad son:
 
 - Javascript
-- React.js
-- Redux
+- React.js / Redux
+- -Python
 - Node.js
 - Express.js
 - PostgreSQL
 - Docker
-- Sequelize
 - HTML, CSS
 - GIT
 
@@ -28,8 +27,8 @@ QuickShop - Un proyecto de aplicación de compras en línea desarrollado utiliza
 
 ##Contacto
 
-- Puedes contactarme a través de mi correo electrónico: stvncarrun@gmail.com.
+- Puedes contactarme a través de mi correo electrónico: th0mcar@outlook.com.
 - Encuéntrame en LinkedIn: Thomas Carvajal (https://www.linkedin.com/in/th0mcar/).
 
 ¡Gracias por visitar mi perfil!
-¡Gracias por pasar por aquí! Siéntete libre de explorar mis proyectos y contribuciones. Si tienes alguna pregunta o simplemente quieres charlar sobre programación, tecnología o cualquier otro tema relacionado, no dudes en contactarme. ¡Espero que encuentres algo interesante en mi perfil! 😄
+¡Gracias por pasar por aquí! Siéntete libre de explorar mis proyectos y contribuciones. Si tienes alguna pregunta o simplemente quieres charlar sobre programación, tecnología o cualquier otro tema relacionado, no dudes en contactarme. ¡Espero que encuentres algo interesante en mi perfil! 
